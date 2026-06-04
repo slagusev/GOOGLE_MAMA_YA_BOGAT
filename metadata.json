@@ -1,0 +1,8 @@
+{
+  "name": "Мама, я богат",
+  "description": "Потрясающая настольная веб-игра про бизнес, недвижимость и инвестиции. Создавайте столы, сканируйте QR-код и играйте вместе со смартфона!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
